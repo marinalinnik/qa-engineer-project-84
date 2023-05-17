@@ -9,7 +9,7 @@
   
   - summary: |
     Проверка фильтра по цене
-  status: pass
+  status: fail
   
   - summary: |
     Проверка открытия карточки товара
