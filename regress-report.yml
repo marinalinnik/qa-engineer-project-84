@@ -17,8 +17,8 @@ test-cases:
     status: pass
   
   - summary: |
-    Проверка отображения добавленного товара в Корзине
-   status: pass
+      Проверка отображения добавленного товара в Корзине
+    status: pass
 
 bugreports:
   - summary: |
