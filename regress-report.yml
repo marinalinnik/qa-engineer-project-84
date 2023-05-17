@@ -1,6 +1,6 @@
 ---
 test-cases:
-  - summary: |
+ - summary: |
     Проверка поиска товара по ключевому слову
   status: fail
 
@@ -21,7 +21,7 @@ test-cases:
   status: pass
 
 bugreports:
-  - summary: |
+- summary: |
     Не работает фильтр товаров по ключевому слову
   environment: |
     Version 113.0.5672.127 (Official Build) (64-bit)
@@ -36,7 +36,7 @@ bugreports:
     Поиск по ключевому слову работает только на открытой странице, на которой находится этот товар, а не по всем имеющимся страницам
     Ошибка изображена на скриншотах 2br_1.png и 2br_2.png
     
- - summary: |
+- summary: |
     Не работает фильтр товаров по всем категориям
   environment: |
     Version 113.0.5672.127 (Official Build) (64-bit)
@@ -52,7 +52,7 @@ bugreports:
     Поиск по категории работает в зависимости от открытой страницы с товарами
     Ошибка изображена на скриншотах 2br_3.png
     
- - summary: |
+- summary: |
     Не работает фильтр по цене
   environment: |
     Version 113.0.5672.127 (Official Build) (64-bit)
