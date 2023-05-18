@@ -7,14 +7,14 @@
     Проверка поиска товара по категории
   status: pass
   
-  - summary: |
+- summary: |
     Проверка фильтра по цене
   status: fail
   
-  - summary: |
+- summary: |
     Проверка открытия карточки товара
   status: pass
   
-  - summary: |
+- summary: |
     Проверка отображения добавленного товара в Корзине
   status: pass
